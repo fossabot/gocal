@@ -1,4 +1,6 @@
 # gocal
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Fgocal.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Fgocal?ref=badge_shield)
+
 
 Fast (and opinionated) ICAL parser in Golang.
 
@@ -82,3 +84,7 @@ I do not pretend this abides by [RFC 5545](https://tools.ietf.org/html/rfc5545),
  * ```X-*```
 
 Also, we ignore whatever's not a ```VEVENT```.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Fgocal.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Fgocal?ref=badge_large)
